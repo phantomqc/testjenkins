@@ -1,0 +1,12 @@
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\bin\Debug\UnitTest.dll
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\bin\Debug\UnitTest.pdb
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\bin\Debug\UnitTest.xml
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\obj\Debug\UnitTest.Resources.resources
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\obj\Debug\UnitTest.vbproj.GenerateResource.Cache
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\obj\Debug\UnitTest.dll
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\obj\Debug\UnitTest.xml
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\obj\Debug\UnitTest.pdb
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\bin\Debug\Unit Testing.exe
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\bin\Debug\Unit Testing.pdb
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\bin\Debug\Unit Testing.xml
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\UnitTest\obj\Debug\UnitTest.vbprojResolveAssemblyReference.cache

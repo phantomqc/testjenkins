@@ -1,0 +1,13 @@
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\bin\Debug\Unit Testing.exe.config
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\bin\Debug\Unit Testing.exe
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\bin\Debug\Unit Testing.pdb
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\bin\Debug\Unit Testing.xml
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\obj\Debug\Unit_Testing.Resources.resources
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\obj\Debug\Unit Testing.vbproj.GenerateResource.Cache
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\obj\Debug\Unit Testing.exe
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\obj\Debug\Unit Testing.xml
+d:\users\jpboucher\documents\visual studio 2013\Projects\Unit Testing\Unit Testing\obj\Debug\Unit Testing.pdb
+D:\Users\jpboucher\Downloads\Projects\Unit Testing\Unit Testing\bin\Debug\Unit Testing.exe.config
+D:\Users\jpboucher\Downloads\Projects\Unit Testing\Unit Testing\obj\Debug\Unit Testing.exe
+D:\Users\jpboucher\Downloads\Projects\Unit Testing\Unit Testing\obj\Debug\Unit Testing.xml
+D:\Users\jpboucher\Downloads\Projects\Unit Testing\Unit Testing\obj\Debug\Unit Testing.pdb
